@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.heading{
+  font-size: xx-large;
+  text-align: center;
+  margin:2rem;
+}
+
+#outer{
+  display: flex;
+  margin:2rem;
+}
+
+.container{
+    width: 100%;
+}
+
+.item{
+  border-bottom: 1px solid black;
+}
+.item span{
+  margin-left: 1rem;
+}
